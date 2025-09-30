@@ -76,12 +76,13 @@ Tanto faz, desde que a lista comece com 1.
 ## tabela
 
 id | nome | sobrenome | email
---- | --- | --- | ---
+:---: | :--- | :--- | ---: 
 1 | Thornton | Palmer | doema@umi.co.uk
 2 | Bertha | Alvarado |hoh@fede.gm
 3 | Isabel | Beck | jo@das.za
 4 | Pearl |  | --- 
 
+usar o : muda a formatação dos textos das colunas
 ## codigos
 
 colocar entre crases (`)
