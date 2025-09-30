@@ -7,4 +7,4 @@
 * projeto-site - site de testes para aprender sobre branch
     * index.html - index do site
     * estilos 
-        *style.css - estilo do site
+        * style.css - estilo do site
