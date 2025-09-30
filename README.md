@@ -1,5 +1,18 @@
 # testes
 
+## formatação
+
+**negrito** ou __negrito__
+*italico* ou _italico_
+**_negrito e itálico_** ou __*negrito e itálico*__
+
+# título nível 1
+## título nível 2
+### título nível 3
+#### título nível 4
+##### título nível 5
+
+
 ## tabela
 
 id | nome | sobrenome | email
@@ -10,6 +23,8 @@ id | nome | sobrenome | email
 4 | Pearl |  | --- 
 
 ## codigos
+
+colocar entre crases (`)
 
 ` print("hi") `
 ou
