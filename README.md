@@ -8,3 +8,13 @@ id | nome | sobrenome | email
 2 | Bertha | Alvarado |hoh@fede.gm
 3 | Isabel | Beck | jo@das.za
 4 | Pearl |  | --- 
+
+## codigos
+
+' print("hi") '
+ou
+'''
+n = int(input("Digite um número: "))
+for char in range(n):
+    print(char)
+'''
