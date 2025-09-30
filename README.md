@@ -44,4 +44,4 @@ for char in range(n):
 [meu linkedin](https://www.linkedin.com/in/enzo-seiichi-yamakawa-228130387/)
 
 ## imagens
-![miku](https://pin.it/1ZNr8T0hq)
+![miku](https://www.einerd.com/wp-content/uploads/2024/10/HATSUNE-MIKU-e1739570743688.jpg.webp)
