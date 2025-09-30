@@ -2,8 +2,10 @@
 
 ## formatação
 
-**negrito** ou __negrito__
+**negrito** ou __negrito__ 
+
 *italico* ou _italico_
+
 **_negrito e itálico_** ou __*negrito e itálico*__
 
 # título nível 1
