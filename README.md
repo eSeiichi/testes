@@ -39,8 +39,8 @@ for char in range(n):
 
 ## links
 
-[meu git hub] (https://github.com/eSeiichi/)
-[meu linkedin] (https://www.linkedin.com/in/enzo-seiichi-yamakawa-228130387/)
+[meu git hub](https://github.com/eSeiichi/)
+[meu linkedin](https://www.linkedin.com/in/enzo-seiichi-yamakawa-228130387/)
 
 ## imagens
-! [miku] (https://in.pinterest.com/pin/848576754802704727/)
+![miku](https://in.pinterest.com/pin/848576754802704727/)
