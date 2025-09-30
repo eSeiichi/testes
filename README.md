@@ -22,20 +22,21 @@
 
 Tanto faz, desde que a lista comece com 1.
 
+#### exemplo 1
 1. lista1
 2. lista2
 3. lista3
     1. lista3.1
     2. lista3.2
 4. lista4
-
+#### exemplo 2
 1. lista1
 22. lista2
 53. lista3
     1. lista3.1
     32. lista3.2
 862. lista4
-
+#### exemplo 3
 1. lista1
 1. lista2
 1. lista3
@@ -110,4 +111,11 @@ for char in range(n):
 
 eu gosto de java e python
 
+## emojis
+
+usar entre ::
+
+:cat:
+:dog:
+:star:
 
